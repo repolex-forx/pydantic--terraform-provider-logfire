@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "terraform-provider-logfire",
+  "versions": [
+    {
+      "commit": "f25d5569942b9d4beebe1400b64af39a0e2353f4",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:51:28.189955+00:00"
+    }
+  ]
+}
