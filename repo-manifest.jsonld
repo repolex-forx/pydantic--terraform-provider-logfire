@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydantic/terraform-provider-logfire/commit/f25d5569942b9d4beebe1400b64af39a0e2353f4",
       "git:hexsha": "f25d5569942b9d4beebe1400b64af39a0e2353f4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pydantic/terraform-provider-logfire/commit/1d7acb390ca632229739d54f854cda0ccc6a9e69",
